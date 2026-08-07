@@ -20,17 +20,18 @@ Os exercícios foram desenvolvidos principalmente em **Google Colab**, utilizand
 - Procedures e Triggers
 - Modelagem de diferentes cenários
 
-## Atividades
+## 📂 Atividades do repositório
 
-O repositório reúne exercícios envolvendo diferentes contextos, entre eles:
-
-- Banco de dados Sakila;
-- Biblioteca universitária;
-- Sistema de descontos;
-- Sistema acadêmico;
-- Clínica médica;
-- Cálculo de média e situação de alunos;
-- Procedures e Triggers.
+| Atividade | Tema | Notebook |
+|---|---|---|
+| 1 | Sistema de pedidos em MySQL/MariaDB | [Abrir](atividade1_sistema_pedidos_mysql.ipynb) |
+| 2 | Biblioteca universitária | [Abrir](atividade2_biblioteca_universitaria_colab.ipynb) |
+| 3 | Sistema de descontos | [Abrir](atividade3_descontos_colab.ipynb) |
+| 4 | Sistema acadêmico | [Abrir](atividade4_sistema_academico_colab.ipynb) |
+| 5 | Clínica médica | [Abrir](atividade5_clinica_medica_colab.ipynb) |
+| 6 | Média e situação de alunos | [Abrir](atividade6_media_status_aluno_colab.ipynb) |
+| 7 | Clientes, Procedures e Triggers | [Abrir](atividade7_clientes_procedure_trigger_colab.ipynb) |
+| 8 | Banco Sakila — SQL | [Abrir](atividade8_sakila_sql_colab.ipynb) |
 
 ## Tecnologias utilizadas
 
